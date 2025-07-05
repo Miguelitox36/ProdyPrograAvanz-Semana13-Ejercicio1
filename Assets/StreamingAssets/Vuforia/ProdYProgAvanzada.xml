@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="astronaut" size="512.000000 885.000000" />
+    <ImageTarget name="Diavolo" size="550.000000 550.000000" />
+    <ImageTarget name="Ow" size="550.000000 412.500000" />
+    <ImageTarget name="Pudge" size="550.000000 309.475220" />
   </Tracking>
 </QCARConfig>

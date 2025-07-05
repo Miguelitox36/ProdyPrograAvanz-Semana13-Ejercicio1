@@ -99,26 +99,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.ide.rider@3.0.34": {
-      "name": "com.unity.ide.rider",
-      "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.ide.rider@ecbf706690e5",
-      "fingerprint": "ecbf706690e5ce42dc165ddd8e5754acda3dc6b9",
-      "editorCompatibility": "2019.4.6f1",
-      "version": "3.0.34",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.ide.visualstudio@2.0.22": {
-      "name": "com.unity.ide.visualstudio",
-      "displayName": "Visual Studio Editor",
-      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.ide.visualstudio@8140e851d83e",
-      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
-      "editorCompatibility": "2019.4.25f1",
-      "version": "2.0.22",
-      "source": "registry",
-      "testable": false
-    },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
@@ -136,16 +116,6 @@
       "fingerprint": "649c6c7b3b1b6277839041f4987c0a1e66176678",
       "editorCompatibility": "2020.3.0a1",
       "version": "4.12.2",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.test-framework@1.4.5": {
-      "name": "com.unity.test-framework",
-      "displayName": "Test Framework",
-      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.test-framework@0a21eb82d95c",
-      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
-      "editorCompatibility": "2019.4.0a10",
-      "version": "1.4.5",
       "source": "registry",
       "testable": false
     },
@@ -179,13 +149,23 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.xr.legacyinputhelpers@2.1.11": {
-      "name": "com.unity.xr.legacyinputhelpers",
-      "displayName": "XR Legacy Input Helpers",
-      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@a3936666e068",
-      "fingerprint": "a3936666e06871a5fd0461a69a4d99efb31a21c1",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.1.11",
+    "com.unity.xr.management@4.5.1": {
+      "name": "com.unity.xr.management",
+      "displayName": "XR Plugin Management",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.xr.management@20be87dea580",
+      "fingerprint": "20be87dea58031bdc9e932e7e7cbe7d270db0e4a",
+      "editorCompatibility": "2020.3.15f1",
+      "version": "4.5.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.mock-hmd@1.4.0-preview.2": {
+      "name": "com.unity.xr.mock-hmd",
+      "displayName": "MockHMD XR Plugin",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.xr.mock-hmd@bf4cb37c5d7a",
+      "fingerprint": "bf4cb37c5d7a4b8dbfc9c398afe865e8bff26226",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.4.0-preview.2",
       "source": "registry",
       "testable": false
     },
@@ -461,6 +441,26 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.xr.core-utils@2.5.1": {
+      "name": "com.unity.xr.core-utils",
+      "displayName": "XR Core Utilities",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.xr.core-utils@c0df0dd5bced",
+      "fingerprint": "c0df0dd5bced783e855e63d640484ff72ea7dea8",
+      "editorCompatibility": "2021.3.0f1",
+      "version": "2.5.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.11": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "displayName": "XR Legacy Input Helpers",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@a3936666e068",
+      "fingerprint": "a3936666e06871a5fd0461a69a4d99efb31a21c1",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.11",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.services.core@1.14.0": {
       "name": "com.unity.services.core",
       "displayName": "Services Core",
@@ -468,6 +468,26 @@
       "fingerprint": "9e81a5e382457b799480b311ce51187be99abbbf",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.14.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "displayName": "Visual Studio Editor",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.ide.visualstudio@8140e851d83e",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.rider@3.0.31": {
+      "name": "com.unity.ide.rider",
+      "displayName": "JetBrains Rider Editor",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.ide.rider@7921be93db40",
+      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.31",
       "source": "registry",
       "testable": false
     },
@@ -488,6 +508,16 @@
       "fingerprint": "a68e7bc849973d943853204178d08a2bc7656ffe",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.2.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "D:\\GitHub\\ProgyProdAvanzada\\Semana13\\Progra2ARMangel\\Library\\PackageCache\\com.unity.test-framework@0a21eb82d95c",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
       "source": "registry",
       "testable": false
     },
